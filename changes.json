@@ -1,0 +1,23 @@
+{
+	"ADD_SONG_TO_THE_PLAYLIST": [{
+		"playlist_id": "2",
+		"song_id": "1"
+	},
+	{
+		"playlist_id": "3",
+		"song_id": "2"
+	}],
+	"ADD_PLAYLIST": [{
+		"user_id":"6",
+		"song_ids": [
+			"6",
+			"10"
+		]
+	}],
+	"REMOVE_PLAYLIST": [{
+		"playlist_id": "3"
+	},
+	{
+		"playlist_id": "2"
+	}]
+}
